@@ -1,4 +1,4 @@
-🎙️ Local Real-Time Voice Agent (WebRTC + Whisper + Ollama + Kokoro)
+🎙️ Local Real-Time Voice Agent (WebRTC + Whisper + Ollama + Kokoro TTS)
 
 Hey there! 👋 Welcome to the Voice Agent WebRTC Service repository.
 
